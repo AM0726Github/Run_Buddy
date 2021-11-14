@@ -31,14 +31,21 @@ header {
   background-size: cover;
   background-attachment: fixed;
   background-position: 80%;
+<<<<<<< HEAD
   z-index: 9999;
+=======
+>>>>>>> feature/aesthetics
 }
 
 header h1 {
   font-weight: bold;
   margin: 0;
   font-size: 36px;
+<<<<<<< HEAD
   color: var(--primary-color);
+=======
+  color: #fce138;
+>>>>>>> feature/aesthetics
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -67,8 +74,13 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
+<<<<<<< HEAD
   background: var(--primary-color);
   color: var(--secondary-color);
+=======
+  background: #fce138;
+  color: #024e76;
+>>>>>>> feature/aesthetics
   border-radius: 15px;
   text-shadow: none;
 }
@@ -132,12 +144,20 @@ section {
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
+<<<<<<< HEAD
   color: var(--primary-color);
+=======
+  color: #fce138;
+>>>>>>> feature/aesthetics
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-form {
+<<<<<<< HEAD
   border: 3px solid var(--secondary-color);
+=======
+  border: 3px solid #024e76;
+>>>>>>> feature/aesthetics
   background-color: rgba(255, 225, 56, 0.8);
   padding: 20px;
   color: var(--secondary-color);
@@ -148,7 +168,11 @@ section {
 }
 
 .hero-form button:hover {
+<<<<<<< HEAD
   background-color: var(--tertiary-color);  
+=======
+  background-color: #39a6b2;  
+>>>>>>> feature/aesthetics
 }
 
 .hero-form h3 {
@@ -450,12 +474,21 @@ section {
 }
 
 .contact-form button:hover {
+<<<<<<< HEAD
   color: var(--primary-color);
   background: var(--tertiary-color);
 }
 
 .contact-info a {
   color: var(--primary-color);
+=======
+  color: #fce138;
+  background: #39a6b2;
+}
+
+.contact-info a {
+  color: #fce138;
+>>>>>>> feature/aesthetics
 }
 /* REACH OUT STYLES END */
 
